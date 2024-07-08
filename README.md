@@ -10,9 +10,7 @@ This project conducts a comprehensive data analytics study focused on road accid
 * Conclusions
 * Technologies Used
 * Setup and Installation
-* Usage
 * Contributing
-* License
 * Contact
 
 ## Data Collection
